@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpayCodingTest", "EpayCodingTest\EpayCodingTest.csproj", "{268625D5-530F-4EDC-8CE3-C6EE72D2A7F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F183474D-C722-4D81-BE23-812F3718752D}"
+	ProjectSection(SolutionItems) = preProject
+		customer.json = customer.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268625D5-530F-4EDC-8CE3-C6EE72D2A7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268625D5-530F-4EDC-8CE3-C6EE72D2A7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268625D5-530F-4EDC-8CE3-C6EE72D2A7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268625D5-530F-4EDC-8CE3-C6EE72D2A7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF34B9CD-5B92-4B9C-87BD-D8FF8F83C461}
+	EndGlobalSection
+EndGlobal
